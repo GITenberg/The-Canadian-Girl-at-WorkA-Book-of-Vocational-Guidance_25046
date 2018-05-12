@@ -1,0 +1,27 @@
+_repo: The-Canadian-Girl-at-WorkA-Book-of-Vocational-Guidance_25046
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willison, Marjory MacMurchy, Lady
+    alias: MacMurchy, Marjory
+    deathdate: 1938
+    gutenberg_agent_id: '28367'
+    url: http://www.gutenberg.org/2009/agents/28367
+description: ''
+gutenberg_issued: '2008-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Vocational guidance -- Canada'
+- !lcc 'HD'
+- !lcsh 'Women -- Employment -- Canada'
+title: 'The Canadian Girl at Work: A Book of Vocational Guidance'
+url: http://www.gutenberg.org/ebooks/25046
